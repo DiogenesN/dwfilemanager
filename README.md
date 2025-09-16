@@ -1,7 +1,7 @@
 # DW File Manager
 A web-based HTML offline file manager to browse/preview/open your local folders and files right in your browser. It works in your browser completely offline without any internet connection needed. It has basic keyboard navigation support.
 
-# What you can do with DMW Player
+# What you can do with DW File Manager
    1. Browse your local folders and files.
    2. Play your audio files.
    3. Play your video files.
