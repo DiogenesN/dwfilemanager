@@ -8,6 +8,9 @@ A web-based HTML offline file manager to browse/preview/open your local folders 
    4. View your image files.
    5. View your text/pdf files.
 
+### DW File Manager is now available in the Chrome Web Store:
+https://chromewebstore.google.com/detail/dw-file-manager/odignappajiapnocneeplgahlojgbpgf
+
 # Installation/Usage
    1. Simply right click on dwfilemanager.html and open it with your favorite web browser (or drag and drop).
    2. Click on the 'Choose Folder' button and select the folder that contains your other folders and files and click on Upload.
